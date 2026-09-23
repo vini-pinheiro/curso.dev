@@ -1,4 +1,4 @@
-# clone-tabnews
+# curso.dev
 
 Projeto de exemplo que implementa partes do TabNews como exercício do [curso.dev](https://curso.dev/). Usa Next.js para a camada web/API e Postgres para persistência. Fornece infraestrutura em Docker Compose, migrações com `node-pg-migrate` e testes de integração com Jest.
 
